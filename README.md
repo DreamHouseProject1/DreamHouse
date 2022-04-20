@@ -4,8 +4,8 @@ Dream House, with a frontend built in React & Redux and a backend built in Djang
 ```
 ## Live Demo
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://frontend-yandys.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-yandys.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO]() here!!
+Check out [API LIVE DEMO]() here!!
 ## Tech used
 ```
 * Frontend : React & Redux
@@ -14,7 +14,7 @@ Check out [API LIVE DEMO](https://backend-yandys.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone hhttps://github.com/yandys86/dreamhouse.git
+git clone 
 ```
 2. Backend setting
 ```
