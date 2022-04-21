@@ -14,7 +14,7 @@ Check out [API LIVE DEMO](https://backend-dreamhouse.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone 
+git clone https://github.com/DreamHouseProject1/DreamHouse
 ```
 2. Backend setting
 ```
