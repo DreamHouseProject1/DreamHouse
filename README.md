@@ -1,3 +1,9 @@
+# Dream House
+```
+  This is an e-commerce website where you can buy, sell, lease, or rent properties. You can sign up/sign in to use the website and easily search for properties using the location, prices, and other aspects while looking for the perfect place! Detailed information about all the listed properties is provided along with verified images for easy navigation and your safety. 
+```
+
+
 # Dream House in React & Redux + Django
 ```
 Dream House, with a frontend built in React & Redux and a backend built in Django API.
